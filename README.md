@@ -24,6 +24,3 @@
 
 [./rutube_tfidf_ranker.ipynb](https://github.com/Evgenkaz/Search-Engine-Video/blob/main/rutube_gpu_tfidf_bm25_CATBOOSTRANKER.ipynb) Код основного решения;
 
-
-Репозиторий вебинтерфейса:
-https://github.com/invincible/search_autocomplete
