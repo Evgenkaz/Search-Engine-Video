@@ -21,11 +21,9 @@
 Стек решения: Python, Docker, RAPIDS, Flask, Bootstrap.
 
 ## Файлы проекта
-[./EDA-final.ipynb](https://github.com/invincible/iskatel/blob/main/EDA-videos2.ipynb) Разведочный анализ данных;
 
-[./rutube_tfidf_comments.ipynb](https://github.com/invincible/iskatel/blob/main/rutube_gpu_tfidf_bm25_CATBOOSTRANKER.ipynb) Код основного решения;
+[./rutube_tfidf_ranker.ipynb](https://github.com/Evgenkaz/Search-Engine-Video/blob/main/rutube_gpu_tfidf_bm25_CATBOOSTRANKER.ipynb) Код основного решения;
 
-[./bm25_catboost.csv](https://github.com/invincible/iskatel/blob/main/bm25_catboost.csv) Файл с рекомендациями;
 
 Репозиторий вебинтерфейса:
 https://github.com/invincible/search_autocomplete
